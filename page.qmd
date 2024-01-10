@@ -4,23 +4,15 @@ format: html
 editor: visual
 ---
 
-## Quarto
+## Introdução
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+o rápido desenvolvimento de algoritmos de nas áreas de aprendizado de máquina ou estatístico e 
+inteligência artificial tem produzido uma literatura profundamente técnica para 
+atender  as descrições matemáticas, estatísticas e computacionais. Enquanto que há um grupo grande de entusiastas de aplicações que não gostariam de verificar se seus problemas 
+respeitam as hipóteses que garantem a qualidade e segurança dos seus algoritmos em produção. Neste 
+livro é mantido o objetivo de respeitar os fundamentos enquanto é produzido um texto capaz 
+de alcançar aqueles que precisam começar de um ponto da programação no qual tais parâmetros 
+já são garantidos e respeitados. Por isso, justifica-se o título "Ia não tão concisa.", ou seja, 
+aquela que permitirá minimamente compreender a matemática envolvida na aplicação. 
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+## Aquilo que é bom
